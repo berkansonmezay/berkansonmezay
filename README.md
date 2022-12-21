@@ -1,2 +1,2 @@
+<h1 align="center">Hi 👋, I'm Berkan Sönmezay</h1>
 
-github-contribution-grid-snake.svg
