@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Berkan Sönmezay</h1>
 
+
 <h2 align="center"> Stack Automation Software Test Engineer from Turkey</h2>
 
 
-- 📫 How to reach me **sonmezayberkan@gmail.com**
+![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
+ 
+   -📫 How to reach me **sonmezayberkan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
