@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Berkan Sönmezay</h1>
+<h1 align="center">Hi 👋, I'm Berkan</h1>
 
 
 <h2 align="center"> Automation Software Test Engineer from Turkey</h2>
