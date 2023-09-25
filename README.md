@@ -4,7 +4,6 @@
 <h2 align="center"> Automation Software Test Engineer from Turkey</h2>
 
 
-![berkansonmezay snake gif](https://github.com/berkansonmezay/berkansonmezay/blob/output/github-contribution-grid-snake.svg)
  
    -📫 How to reach me **sonmezayberkan@gmail.com**
 
